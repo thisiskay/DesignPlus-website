@@ -1,0 +1,14 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f37;
+      }
+    </style>
+  </defs>
+  <title>Approval &amp;amp; Delivery</title>
+  <g>
+    <path class="cls-1" d="M50,15.5A34.5,34.5,0,1,0,84.5,50,34.54,34.54,0,0,0,50,15.5Zm0,63.44A28.94,28.94,0,1,1,78.94,50,29,29,0,0,1,50,78.94Z"/>
+    <path class="cls-1" d="M61,39,44.89,55.1,39,49.21a2.78,2.78,0,1,0-3.93,3.93L42.93,61a2.76,2.76,0,0,0,3.93,0L64.93,42.93A2.78,2.78,0,0,0,61,39Z"/>
+  </g>
+</svg>
